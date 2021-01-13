@@ -1,0 +1,21 @@
+
+
+#### What .* streams.*$
+"tags": [
+
+
+### (.*)$
+"channel" : "\1"{
+
+^#### Streaming on:$
+"platforms" : [
+
+^#### Links:$
+],\r\n"Links" : [
+
+^- 
+{nothing}
+ [
+
+\r\n\r\n
+\r\n
